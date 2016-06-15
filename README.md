@@ -1,2 +1,1 @@
-# cho
-all of cho cell
+###all of cho cell
